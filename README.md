@@ -79,3 +79,4 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LabyKreative&theme=dark)](https://git.io/streak-stats)
