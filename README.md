@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LabyKreative
+- <h1>Hi there, I’m Laby 👋</h1>
 - 👀 I’m interested in ... Machine Language.
-- 🌱 I’m currently learning ... IT Freak.
+- 🌱 I’m currently learning ... ML.
 - 💞️ I’m looking to collaborate on ... Open Projects.
 - 📫 How to reach me ... labykreative@gmail.com
 
