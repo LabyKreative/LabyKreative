@@ -1,8 +1,8 @@
-- <h1>Hi there, I’m Laby 👋</h1>
+- # Hi there, I’m Laby 👋
 - 👀 I’m interested in ... Machine Language.
 - 🌱 I’m currently learning ... ML.
 - 💞️ I’m looking to collaborate on ... Open Projects.
-- 📫 How to reach me ... labykreative@gmail.com
+- 📫 How to reach me ... [gmail](mailto:labykreative@gmail.com)
 
 <!---
 LabyKreative/LabyKreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
