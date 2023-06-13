@@ -76,5 +76,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LabyKreative&theme=blue-green"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabyKreative&hide_progress=true&theme=blue-green"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabyKreative&theme=blue-green&hide_progress=true"/>
 </p>
