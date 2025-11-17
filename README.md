@@ -1,12 +1,12 @@
 - # Hi there, I’m Laby 👋
 - 👀 I’m interested in ... Machine Language.
-- 🌱 I’m currently learning ... ML.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Open Projects.
 - 📫 How to reach me ... [gmail](mailto:labykreative@gmail.com)
 
 <!---
 LabyKreative/LabyKreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
